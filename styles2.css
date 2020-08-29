@@ -40,7 +40,7 @@ body {
 }
 
 .btn-handle:hover {
-  background-color: #76c3f0;
+  background: linear-gradient(115.87deg, #14f1d9 0%, #3672f8 100%);
 }
 
 .headTag,
